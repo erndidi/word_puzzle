@@ -1,12 +1,18 @@
 .inView{
-  color:black;
+  color: green;
 }
 
 .noView{
-  color:white;
+  color: black;
 }
 
 
 div{
   display:inline;  
+}
+
+input{
+  font-size: xx-large;
+  width: 1em;
+  margin-right: 1em;
 }

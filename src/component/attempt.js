@@ -1,14 +1,12 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import './word.style.css';
 
 function Attempt(props) {
-  const letter = props.letter;
-  const canShow = props.canShow;
+  const [letter, setLetter] = useState(props.letter);
+  //const inputRef = useRef(null);
+  //const canShow = props.canShow;
   const [attempt, setAttempt] = useState('');
-
-  const handleFocus = (e) =>{
-
-  }
+ 
 
   const handleInputChange=(e)=>{
     console.log(e);
@@ -16,15 +14,17 @@ function Attempt(props) {
     const index = e.target.getAttribute("data-index");
     let workAttempt = {letter:incomingLetter, index:index};
      setAttempt(workAttempt);   
-
     props.handleAttempt(workAttempt);
+
   }
+
+ useEffect(()=>{},[letter]);
 
   //const [letter, setLetter] = 
  //const [letter, setLetter] =
     return (
       <div>
-          <input type="text"  className={canShow} data-index = {props.index} onChange={handleInputChange}></input>
+          <input type="text"  value={props.letter}  data-index = {props.index} onChange={handleInputChange}></input>
       </div>
     );
   }
