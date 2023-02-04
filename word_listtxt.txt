@@ -1,0 +1,532 @@
+    Association - a group of people organized for a common purpose
+    Anticipation - the act of looking forward to something with eagerness or expectation
+    Appreciation - recognition of the quality, worth, or significance of something
+    Accomplishment - the successful completion of a task or objective
+    Adjudication - the act of making a formal judgment or decision on a matter
+    Aggregation - the act or process of collecting or grouping together
+    Aggravation - the act of making something worse or more severe
+    Alternative - a choice or possibility that can be chosen instead of something else
+    Amplification - the act or process of increasing the strength, intensity, or volume of something
+    Annihilation - the act of destroying or wiping out completely
+    Antagonistic - characterized by active hostility or opposition
+    Antecedent - something that happened or existed before a particular event or time
+    Antithesis - the direct opposite of something
+    Apprenticeship - a period of training during which a person works for an expert in a particular field to learn a trade or profession
+    Arrangement - the act of putting things in a particular order or position
+    Aspiration - a strong desire or ambition to achieve something
+    Association - a relationship or connection between two or more things
+    Atrocity - a very cruel or terrible act or event
+    Attraction - the act of drawing someone or something to oneself
+    Authentication - the act of proving the truth or validity of something
+    Automation - the use of machines, control systems, and software to perform tasks without human intervention
+    Bacteria - a group of microorganisms that consist of single-celled organisms which are often pathogenic
+    Basement - the lowermost floor of a building, usually below or partly below ground level
+    Beneficial - producing good or helpful results or effects
+    Benevolent - showing kindness and concern for others; charitable
+    Blandishment - flattery or praise that is intended to persuade or influence someone
+    Borrowing - the act of taking something temporarily with the intention of returning it
+    Bristling - showing anger or resentment through one's body language or behavior
+    Brotherhood - a group of people who share a common interest or goal
+    Cacophony - a harsh, discordant mixture of sounds
+    Calculation - the act of determining something through mathematical processes
+    Calibration - the act of adjusting or setting the standards for a measuring instrument
+    Camaraderie - a feeling of trust and good fellowship among people who work or spend time together
+    Campaign - a series of activities or events that are organized to achieve a particular goal
+    Cancellation - the act of calling off an event or appointment
+    Capitulation - the act of surrendering or yielding to someone or something
+    Carcinogenic - having the potential to cause cancer
+    Categorization - the act of classifying or grouping things based on shared characteristics or qualities
+    Celebration - a social gathering or event held to mark a special occasion or to honor someone
+    Cessation - the act of stopping or ending something
+    Characteristic - a distinguishing quality or feature of something
+    Charismatic - having a charm or appeal that attracts and inspires others
+    Chastisement - punishment or reprimand for a mistake or wrong behavior
+    Chromosome - a thread-like structure in the nucleus of a cell that carries genetic information
+    Clarification - the act of making
+	
+	Decoration - the act or process of adding something to make something more attractive
+Dedication - the act of devoting time, effort, or energy to a particular task or purpose
+Deduction - the act of subtracting or removing something from a whole
+Defenseless - lacking the means or ability to protect oneself from harm
+Deficiency - a lack or shortage of something needed or required
+Deliberation - the act of considering or discussing something carefully and thoroughly
+Delicacy - something that is pleasing to the senses, especially in taste or smell
+Delinquency - a tendency to be negligent or fail to fulfill one's responsibilities
+Deliverance - the act of rescuing or saving someone from danger or harm
+Demolition - the act of destroying or tearing down a structure
+Demonstration - the act of showing or displaying something in order to prove or explain it
+Denial - the act of stating that something is not true or real
+Departure - the act of leaving or departing from a place
+Dependence - the state of relying on someone or something for support or assistance
+Depreciation - a reduction in the value of an asset over time due to wear and tear or market conditions
+Desecration - the act of damaging or violating something sacred
+Desperation - a state of hopelessness or despair
+Determinism - the belief that all events and occurrences are the result of fixed causes or natural laws
+Devastation - the act of causing widespread destruction or damage
+Devotion - strong and constant loyalty or commitment to someone or something
+Diagnosis - the identification of the cause or nature of a particular condition or problem
+Diligence - careful and persistent work or effort
+Dilution - the act of reducing the concentration or strength of something by adding a larger amount of something else
+Diminution - the act of reducing or decreasing in size, extent, or intensity
+Disadvantage - a negative or unfavorable condition or circumstance
+Disappointment - the feeling of dissatisfaction or disappointment that results from the nonfulfillment of one's expectations or desires
+Disapproval - the act of disapproving or expressing disapproval of something or someone
+Disbelief - the state of doubting or questioning the truth or validity of something
+Disclaimer - a statement that denies responsibility or liability for something
+Discomfort - a state of unease or inconvenience caused by physical or emotional distress
+Discouragement - the act of discouraging or disheartening someone
+Discretion - the ability to make good judgments and to act with tact and judgment
+Disguise - the act of hiding one's true identity or nature
+Disintegration - the act or process of breaking down or falling apart into smaller pieces
+Disobedience - the act of disobeying or failing to comply with orders or rules
+Disorganization - the state of being disorganized or lacking in order or arrangement
+Dispersal - the act or process of scattering or spreading out
+Displacement - the act of forcing someone or something out of a place or position
+Dispossession - the act of depriving someone of their possessions or rights
+Disruption - the act of interrupting the normal functioning or unity of something
+Dissatisfaction - the state of being unhappy or discontent with something
+Distraction - the act of preventing someone from giving their full attention to something
+
+    elephantiasis - a disease characterized by the thickening and enlargement of the skin and underlying tissue, usually as a result of infection by parasitic worms
+    epidermis - the outer layer of the skin
+    epigraphy - the study of inscriptions, especially ancient ones, as a branch of archaeology
+    epilepsy - a disorder of the central nervous system characterized by recurrent seizures
+    equanimity - calmness and composure, especially in difficult situations
+    equatorial - relating to the region around the Earth's equator
+    equilibrium - a state of balance between opposing forces or influences
+    equinoctial - relating to the time when the sun is directly above the Earth's equator, around March 21 and September 23
+    equiponderance - the state of having equal weight or importance
+    equivocation - the use of ambiguous or unclear language in order to deceive or mislead
+    erysipelas - a skin infection caused by bacteria, characterized by redness, swelling, and pain
+    esophagus - the muscular tube that connects the pharynx (throat) to the stomach
+    estrangement - the state of being distant or estranged, especially emotionally
+    eucalyptus - a tree or shrub of the genus Eucalyptus, native to Australia and known for its fragrant leaves and distinctive bark
+    eudemonism - the belief that the highest good is the attainment of happiness or well-being
+    eugenics - the study of or belief in the possibility of improving the qualities of the human species or a human population, especially by such means as discouraging reproduction by persons having genetic defects or presumed to have inheritable undesirable traits
+    eulogistic - expressing praise or admiration
+    eupepsia - good digestion
+    euphonium - a brass musical instrument with a conical bore, similar to a baritone horn
+    euphoria - a feeling of great happiness or well-being
+    eustachian - relating to the Eustachian tube, which connects the middle ear to the pharynx (throat)
+    evaporation - the process of converting a liquid into a vapor
+    eviscerate - to remove the internal organs of (an animal or plant)
+    exclamation - a sudden, strong expression of emotion or feeling, especially of surprise or excitement
+    examination - the act of examining or the state of being examined
+    exasperate - to make (someone) extremely annoyed or impatient
+    excitation - the state of being excited or stimulated
+    exclamation - a sudden, strong expression of emotion or feeling, especially of surprise or excitement
+    exfoliation - the process of shedding or peeling off, especially in small scales or layers
+    exhumation - the act of exhuming or the state of being exhumed, especially the disinterment of a corpse from its grave
+	
+	    facsimile - an exact copy or reproduction of an original
+    fallacious - based on a mistaken or false idea or belief
+    farsighted - able to see distant objects clearly
+    feckless - lacking purpose or vitality; weak and ineffective
+    fervent - having or showing strong feelings or enthusiasm
+    flamboyant - showy and elaborate in style or behavior
+    floriculture - the cultivation of flowers as a branch of horticulture
+    fomentation - the act of stirring up or encouraging the development of (something, especially a feeling or situation)
+    fornication - sexual intercourse between people who are not married to each other
+    fructuous - productive or beneficial
+    fulfillment - the achievement of something desired or promised; the satisfying of a need or desire
+    fulminate - to issue a thunderous verbal attack or denunciation
+    fusillade - a simultaneous or continuous discharge of firearms
+    gregarious - tending to seek and enjoy the company of others
+    guileless - free from deceit or duplicity; innocent and straightforward
+    haphazard - occurring or done in a random or unplanned way
+    harangue - a long, aggressive speech, especially one delivered in public
+    hedonism - the pursuit of pleasure as a way of life
+    histrionic - excessively dramatic or emotional in a way that is perceived as insincere
+    hyperbolic - using or characterized by exaggerated or extravagant language
+    hypochondria - excessive worry about one's health, especially when accompanied by imaginary symptoms
+    hypoglossal - relating to the hypoglossal nerve, which controls the muscles of the tongue
+    iconoclasm - the action of attacking or breaking down traditional or popular beliefs or institutions
+    incommensurable - incapable of being compared or measured in relation to something else
+    incontrovertible - not able to be denied or disputed
+    indelible - making marks that cannot be removed
+    indolence - the state of being inactive or lazy
+    infinitesimal - extremely small; negligible
+    ingratiate - to bring oneself into the favor or good graces of someone, especially by flattery or insincere acts of kindness
+    insouciance - a carefree and lighthearted attitude
+	
+	    fecundity - the state of being fertile and able to produce offspring
+    felicitate - to congratulate (someone) on an occasion of happiness or success
+    fervency - the state of being ardent or passionate
+    fervently - with great intensity or passion
+    fibrillate - to contract rapidly and irregularly, as the heart muscle does in certain disorders
+    filtrable - able to be filtered or strained through a porous substance
+    financier - a person who manages or invests money
+    flagellate - to whip or scourge (someone or something) as a punishment or means of inflicting pain
+    flamboyant - showy and elaborate in style or behavior
+    florescence - the state of being in full bloom or flourishing
+    fluorescence - the emission of light by a substance that has absorbed light or other electromagnetic radiation
+    fomentation - the act of stirring up or encouraging the development of (something, especially a feeling or situation)
+    forbearer - one that precedes or goes before, especially in time
+    forbearance - the willingness to tolerate something, especially the delay of gratification or the endurance of pain or hardship
+    forefathers - an ancestor, especially a male one, in the past
+    forewarning - a warning or indication of something that is going to happen in the future
+    forewoman - a woman who holds a position of authority or supervision, especially in a factory or workshop
+    forswearing - the action of renouncing or repudiating something, especially a claim or right
+    fortitude - courage in facing difficult situations
+    fractional - consisting of a part of a whole; not whole or complete
+    fragility - the state of being easily broken or damaged
+    fructuous - productive or beneficial
+    fulfillment - the achievement of something desired or promised; the satisfying of a need or desire
+    fulminate - to issue a thunderous verbal attack or denunciation
+    functionary - a person who performs a function or duty, especially in a public office or organization
+    funicular - relating to or operated by a cable or ropes, especially a cable car
+    fusillade - a simultaneous or continuous discharge of firearms
+    gregarious - tending to seek and enjoy the company of others
+    guileless - free from deceit or duplicity; innocent and straightforward
+    haphazard - occurring or done in a random or unplanned way
+	
+	    haberdasher - a dealer in men's clothing and accessories, such as hats, shirts, and ties
+    habilitation - the act of providing someone with the necessary skills or qualifications for a particular job or role
+    halcyon - denoting a period of time in the past that was idyllically happy and peaceful
+    halitosis - the condition of having bad breath
+    hamadryad - a nymph in Greek mythology who lived in a tree and was fated to die if the tree was cut down
+    hankering - a strong desire or craving, especially for something that is difficult to obtain or achieve
+    haphazard - occurring or done in a random or unplanned way
+    harangue - a long, aggressive speech, especially one delivered in public
+    harmonize - to bring into agreement or concord; reconcile
+    haughtily - in a proud and arrogant manner
+    headstrong - stubbornly determined to have one's own way; willful
+    hebetude - mental dullness or lethargy
+    hedonism - the pursuit of pleasure as a way of life
+    heirloom - something that has been passed down through a family for generations, especially a piece of jewelry or other valuable object
+    heliocentric - having the sun at the center, as in the Copernican system of astronomy
+    hemolysis - the destruction or disintegration of red blood cells, leading to the release of hemoglobin into the surrounding fluid
+    hemophilia - a genetic disorder characterized by a deficiency of certain blood clotting factors, resulting in a tendency to bleed easily
+    heptathlon - an athletic competition consisting of seven events
+    heritability - the extent to which characteristics or traits are passed on from parent to offspring through genetic inheritance
+    hermetically - in a way that is completely sealed or shut off from the outside
+    heterodoxy - belief or opinion that differs from the conventional or generally accepted one
+    hexameter - a line of verse consisting of six feet or metrical units
+    hirsutism - the state of being excessively hairy
+    histrionic - excessively dramatic or emotional in a way that is perceived as insincere
+    holocaust - a great or complete devastation or destruction, especially by fire
+    homogenize - to make uniform in composition or character
+    homologous - corresponding in position, structure, function, or origin
+    honorarium - a fee paid for a professional service that is not salary, but an expression of respect or gratitude
+    horripilate - to cause (the hair on the skin) to stand on end, as from fear or cold
+    hospitable - friendly and welcoming to guests or strangers
+	
+	    iatrogenic - caused by medical treatment or diagnosis
+    ideologue - a person who is uncompromising in the advocacy of their ideology
+    idiomatically - in a manner peculiar to a particular language or dialect
+    ileitis - inflammation of the small intestine
+    illicitly - in a way that is not allowed or permitted by law or rules
+    immaculate - perfectly clean or pure; without fault or blemish
+    immaterial - of no consequence or importance; irrelevant
+    immoderate - exceeding the limits of moderation; excessive
+    immutable - not able to be changed or altered
+    impassable - not able to be passed or traversed
+    impecunious - having little or no money; poverty-stricken
+    impermeable - not able to be passed through or penetrated by (something, such as a liquid or gas)
+    impervious - not able to be affected or harmed by (something, such as a feeling or criticism)
+    impetuous - impulsive and headstrong; acting or done without careful consideration
+    implacable - not able to be calmed or pacified; unrelenting
+    imponderable - too great or important to be estimated or calculated; incalculable
+    imprecate - to call down (a curse) upon someone or something
+    impregnate - to make (something) pregnant, especially by inserting sperm into the uterus
+    impudicity - the state of being immodest or indecent in speech or behavior
+    impugnment - the act of challenging or questioning the truth or validity of something
+    inamorata - a woman with whom one is in love or has a romantic relationship
+    incandesce - to become or cause to become very hot and luminous
+    incognito - with one's identity concealed; anonymously
+    incommensurable - incapable of being compared or measured in relation to something else
+    incontrovertible - not able to be denied or disputed
+    inculcate - to impress upon the mind through repetition or persistent urging
+    indelible - making marks that cannot be removed
+    indolence - the state of being inactive or lazy
+    infinitesimal - extremely small; negligible
+    ingratiate - to bring oneself into the favor or good graces of someone, especially by flattery or insincere acts of kindness
+	
+	    jactation - the act of boasting or bragging
+    jalapeno - a small, hot, green chili pepper with a pointed end
+    janissary - a member of a military unit in the Ottoman Empire, consisting of slave soldiers
+    jauntiness - the quality of being lively and carefree
+    jocundity - cheerfulness or merriment
+    jocularly - in a jokingly or humorous manner
+    jubilant - full of or expressing great joy or happiness
+    judicious - having or exhibiting good judgment
+    junta - a group of military officers who hold power after a coup d'état
+    kaleidoscope - an optical instrument in which bits of glass, held loosely at the end of a rotating tube, produce changing patterns of color
+    karyotype - the number, shape, and size of the chromosomes in a cell, used in the classification and study of organisms
+    katzenjammer - a state of confusion or chaos; a hangover
+    keelhaul - to drag (someone) under the keel of a ship as punishment or torture
+    kleptomania - an irresistible impulse to steal, especially as a result of a psychological disorder
+    krypton - a chemical element with the atomic number 36 and symbol Kr
+    kudos - praise or admiration that one has gained for their achievements or abilities
+    kylix - an ancient Greek drinking cup with a stemmed base and a wide bowl
+    labyrinth - a complex system of paths or tunnels in which it is difficult to find one's way; a maze
+    laceration - a jagged wound or tear in the flesh
+    lactation - the secretion of milk by the mammary glands
+    lassitude - a feeling of being tired, sluggish, and lacking energy
+    latifundium - a large landed estate, especially in ancient Rome
+    lavaliere - a pendant, especially one worn on a chain around the neck
+    lecherous - having or showing an excessive interest in sexual activity; lustful
+    lenient - showing leniency; not strict or severe
+    lethargy - a state of being drowsy and inactive; sluggishness
+    libertine - a person who is sexually promiscuous or unrestrained by moral principles
+    licentious - lacking moral discipline or ignoring legal restraint, especially in sexual behavior
+    ligamentous - relating to or consisting of ligaments
+    limpidly - in a clear and transparent manner
+    lobotomy - a surgical procedure in which the connections to and from the prefrontal lobe of the brain are cut, formerly used to treat mental illness
+	
+	    machination - a crafty and involved scheme or plot, especially one designed to achieve an evil end
+    magnanimous - generous and forgiving, especially towards an enemy or rival
+    malapropism - the humorous or absurd misuse of a word, especially by confusion with a word that is similar in sound
+    malefactor - a person who has committed a crime or offense
+    malignancy - the state of being malignant; malevolence
+    malleable - able to be shaped or molded; pliable
+    mandarin - a high-ranking official in ancient China, or a person with a high position in a modern government or organization
+    manumission - the act of freeing someone from slavery
+    maraschino - a liqueur made from the distillation of marasca cherries
+    masticate - to chew (food)
+    matrimony - the state of being married; wedlock
+    mausoleum - a large, impressive tomb, especially one with a monumental or decorative structure over it
+    medulla oblongata - the lower part of the brain stem, responsible for controlling vital functions such as heart rate and breathing
+    meliorism - the belief that the world can be improved through human effort
+    melodrama - a play, movie
+	
+	    narcolepsy - a sleep disorder characterized by sudden and uncontroll episodes of sleep
+    nectareous - sweet and delicious
+    negotiable - able to be discussed, settled, or resolved through negotiation
+    neologism - a newly coined word or phrase, especially one that is not yet accepted into mainstream usage
+    neophyte - a beginner or novice in a particular field or activity
+    neoteric - modern or contemporary
+    nepotism - favoritism shown to relatives or close friends, especially in the appointment of them to positions of authority
+    nerveless - without strength or energy; lifeless
+    nictitation - the act of winking or the reflexive closing of the eyelid
+    nidificate - to build or make a nest
+    nirvana - a state of perfect enlightenment, or the final goal of Buddhist practice
+    nonagenarian - a person who is between 90 and 99 years old
+    nonchalance - a lack of concern or interest; indifference
+    nonpareil - having no equal; unparalleled
+    normality - the state or condition of being normal; a condition of being typical or expected
+    nourishment - the action of providing or supplying with the necessary materials for growth, health, and well-being
+    novitiate - the period of time during which a person is a novice, especially in a religious order
+    nuclearity - the state or quality of being nuclear or central
+    nuptiality - the state or fact of being married; wedlock
+    nutritive - providing nourishment; nourishing
+    nyctalopia - abnormal sensitivity to light, especially at night
+    nystagmus - involuntary, rapid eye movements, often associated with dizziness or vision problems
+    obfuscate - to make (something) obscure or difficult to understand, especially intentionally
+    obsequious - overly eager to obey or serve; subservient
+    obstreperous - unruly and difficult to control; rebellious
+    occlusion - the state of being blocked or closed off, especially the blockage of a blood vessel or passageway
+    odalisque - a female slave or concubine in a harem
+    oleaginous - oily or greasy; having the characteristics of oil
+	
+	    pachyderm - a thick-skinned mammal, such as an elephant, rhinoceros, or hippopotamus
+    paean - a song of praise or thanksgiving
+    paladin - a brave and chivalrous warrior
+    palindrome - a word, phrase, or sequence of letters that reads the same backward as forward
+    palliate - to lessen the severity of (something, such as a disease) without removing the cause
+    palpitate - to beat rapidly or erratically, as the heart does during times of stress or excitement
+    pandemic - a widespread outbreak of a disease that affects a large number of people across a large geographic area
+    panoply - a complete or impressive collection or array
+    paragon - a model of excellence or perfection
+    paragonimiasis - an infection caused by parasitic worms, typically found in the lungs and characterized by coughing and chest pain
+    paramour - a lover, especially one who is not married to the person
+    parboil - to boil (something) partially
+    paregoric - a medicine containing opium, used to relieve pain and diarrhea
+    paroxysm - a sudden attack or fit of a particular emotion or activity
+    parsimony - extreme economy or frugality; reluctance to spend money or resources
+    paucity - a small or insufficient amount
+    peccadillo - a minor sin or wrongdoing
+    pejorative - having a disparaging or belittling effect or force
+    pelargonium - a flowering plant native to South Africa, with scented leaves and showy flowers
+    penultimate - next to the last in a series
+    perambulate - to walk or travel through or around (a place)
+    percipience - the ability to perceive or understand; keenness of insight
+    perdition - eternal damnation or destruction
+    perdurable - lasting or enduring for a long time
+    perfunctory - done without care or interest; superficial
+    peripatetic - traveling from place to place; itinerant
+    perjure - to make a false or deceitful statement while under oath
+    pernicious - highly harmful or destructive; deadly
+    peroration - the concluding part of a speech, especially a formal one, in which the speaker sums up the main points
+    persiflage - light, frivolous, or bantering talk or writing; banter
+	
+	    quandary - a state of uncertainty or doubt, especially when faced with a choice between two or more options
+    quarantined - isolated or separated to prevent the spread of disease or infection
+    quaver - a tremulous or vibrating sound, especially in the voice or in music
+    quell - to suppress or extinguish (something, such as a rebellion or emotion)
+    quenchless - unable to be quenched or satisfied
+    querulous - complaining or grumbling in a petulant or irritable manner
+    quiddity - the essential nature or most important quality of something; the essence
+    quisling - a person who betrays their country by aiding an enemy force, especially during times of war
+    quiverful - having a large family or many offspring
+    quixotic - idealistic or romantic to a fault; impractical
+    quorum - the minimum number of members required to be present at a meeting in order to conduct official business
+    quotidian - occurring or done every day; daily
+    quiveringly - in a trembling or shaking manner
+    quixotically - in a way that is marked by idealism and a lack of practicality
+    quixotism - the quality of being impractical or romantic to a fault; quixotic behavior
+    quizzically - in a way that shows curiosity or surprise
+    quondam - former; at one time
+    quorumless - lacking a quorum; not having the minimum number of members required to conduct official business
+    quotha - an expression used to indicate that something has been said, especially in a mocking or ironic way
+    quotability - the quality of being worthy or suitable to be quoted
+    quoth - to say (something, especially something unexpected or unconventional)
+    quotha - an expression used to indicate that something has been said, especially in a mocking or ironic way
+    quotability - the quality of being worthy or suitable to be quoted
+    quondam - former; at one time
+    quorumless - lacking a quorum; not having the minimum number of members required to conduct official business
+    quizzically - in a way that shows curiosity or surprise
+    quiveringly - in a trembling or
+	
+	    rabblement - a tumultuous crowd or mob
+    rambunctious - boisterous and difficult to control; unruly
+    rancorous - characterized by bitterness and resentfulness; spiteful
+    rapacious - greedy and predatory; exploitative
+    rapprochement - the reestablishment of friendly relations between nations or individuals
+    rapturously - in a way that expresses great joy or delight
+    razzle-dazzle - a flashy or showy display; something designed to impress or deceive
+    rebarbative - repellent or uninviting; off-putting
+    recalcitrant - resistant to authority or control; stubbornly disobedience
+    rectitude - the quality of being honest, fair, and morally upright
+    recumbent - lying down or reclining, especially in a relaxed position
+    redolent - strongly or pleasantly scented; fragrant
+    refulgence - a brilliant or radiant quality; splendor
+    refutation - the act of disproving or contradicting something, especially a claim or accusation
+    regicide - the act of killing a king or queen
+    regnant - ruling or reigning; holding a position of power or authority
+    rejuvenate - to make (something or someone) young, fresh, or vigorous again
+    remonstrate - to protest or object strongly
+    reparative - tending or intended to repair or restore
+    replete - filled or well-supplied with something, especially to the point of being full or surfeited
+    reprobate - a person who is morally depraved and lacks any sense of right or wrong
+    reproachful - expressing disapproval or disappointment; censuring
+    requiescat - used to express a wish that someone may rest in peace
+    resplendent - shining brightly and impressively; radiant
+    restive - resistant to control or restraint; restless or impatient
+    resonant - producing or characterized by resonance; echoing
+    reticent - reserved or reticent in speech; not inclined to speak freely
+    retribution - punishment inflicted on someone as vengeance for a wrong or criminal act
+    retrograde - moving or tending to move backward; regressive
+    rhapsodic - expressing great enthusiasm or rapture, especially in a lengthy and elaborate manner
+    ruminative - engaged in or characterized by deep thought; reflective
+	
+	sanctimony - hypocritical and insincere righteousness; insincere moralizing
+sanguineous - containing or consisting of blood
+sardonic - scornfully or skeptically humorous; mocking
+saturnine - gloomy or sullen; having a dark, morose disposition
+saurian - relating to or resembling a reptile or reptile-like creature
+scintillate - to sparkle or shimmer with light; to emit flashes of light
+scrupulous - having high moral or ethical standards; careful and thorough in one's work
+scurrility - vulgar or abusive language; coarseness
+sebaceous - relating to or secreting sebum, an oily substance produced by the sebaceous glands
+sedentary - characterized by sitting or being inactive for much of the time
+seigniorage - the profit or benefit derived from the exercise of public office or from the control of the production and issuance of money
+serendipity - the occurrence and development of events by chance in a happy or beneficial way
+sesquipedal - consisting of or containing a foot and a half, or approximately 18 inches
+sinecure - a position that requires little or no work but provides a salary
+sirenian - relating to or resembling a siren, a mythical creature with the head of a woman and the body of a bird
+sirocco - a hot, dry wind that blows from the Sahara desert to the Mediterranean region
+sobriquet - a nickname or term of endearment
+solicitude - care or concern for someone or something; attentiveness
+soliloquy - a speech or writing in which a character in a play, poem, or novel speaks to themselves, revealing their thoughts and feelings
+somnolence - a state of being drowsy or sleepy; sleepiness
+soporific - tending to cause sleep; sleep-inducing
+sordidness - the state of being sordid or squalid; dirtiness
+spasmodic - occurring in sudden fits or bursts; irregular
+sphinxlike - having the qualities of a sphinx, a mythical creature with the head of a human and the body of a lion
+	ernest lipford
+	
+	tautology - the unnecessary repetition of the same meaning in different words; redundancy
+tawdry - showy or gaudy in a cheap or tasteless way
+tempestuous - characterized by strong and tumultuous emotions or activity; stormy
+tenacious - persistent or determined; holding fast
+tenebrous - dark or obscure; shadowy
+tenuous - thin or slender; weak
+tepid - lacking enthusiasm or warmth; lukewarm
+tergiversate - to change one's views or actions, especially in an insincere or deceptive way
+tessellate - to form or arrange into a mosaic or pattern of tiles
+theocracy - a form of government in which religious leaders have political power
+timorous - timid or fearful; easily scared
+tincture - a slight or trace amount of something; a hint
+tmesis - the separation of the parts of a compound word by an intervening word, as in "what-so-ever"
+torpid - sluggish or inactive; lethargic
+tracheotomy - a surgical procedure in which an incision is made into the trachea in order to insert a tube for breathing
+trammel - something that limits or restricts; a restraint
+truculence - a disposition to be fierce or aggressive; ferocity
+truculent - fierce or aggressive; brutal
+trudge - to walk or move slowly and with effort, especially over a rough or difficult surface
+truculent - fierce or aggressive; brutal
+truculence - a disposition to be fierce or aggressive; ferocity
+trammel - something that limits or restricts; a restraint
+tracheotomy - a surgical procedure in which an incision is made into the trachea in order to insert a tube for breathing
+tmesis - the separation of the parts of a compound word by an intervening word, as in "what-so-ever"
+tincture - a slight or trace amount of something; a hint
+timorous - timid or fearful; easily scared
+theocracy - a form of government in which religious leaders have political power
+tessellate - to form or arrange into a mosaic or pattern of tiles
+tergiversate - to change one's views or actions, especially in an insincere or deceptive way
+
+    ubiquity - the quality or condition of being present everywhere at the same time; omnipresence
+    ulceration - the formation or presence of ulcers, which are sores on the skin or mucous membranes
+    ulterior - existing or occurring beyond what is immediately apparent or admitted; hidden
+    umbrage - offense or annoyance taken at something; resentment
+    uncouth - lacking refinement or manners; rude or awkward
+    underscore - to draw attention to (something) by emphasizing it; to stress
+    undulate - to move with a wavelike motion; to fluctuate or vary in intensity or intensity
+    unguent - a smooth, soothing substance applied to the skin to promote healing or to reduce irritation
+    univocal - having a single, clear meaning; unambiguous
+    upbraid - to criticize or scold severely
+    upshot - the final result or outcome; the consequence
+    urbane - polished and refined in manner or style; elegant
+    ursine - relating to or resembling a bear
+    usurious - charging excessive or illegal interest on a loan
+    utopia - a place or state of ideal perfection, especially in laws, government, and social conditions
+    vacillate - to fluctuate indecisively between different opinions or actions; to waver
+    vacuous - lacking intelligence or depth; empty or hollow
+    valediction - a farewell or leave-taking
+    valorous - showing courage or bravery; heroic
+    vapid - lacking liveliness, flavor, or interest; dull or insipid
+    variegated - having different colors or shades; marked with varied patches or spots
+    vaunt - to boast or brag about (something)
+    vehemence - great intensity or forcefulness of feeling or expression; passion
+    velleity - a slight or halfhearted wish or inclination
+    venerate - to regard with respect and reverence; to honor
+    veracity - truthfulness or honesty; accuracy
+    verdant - characterized by lush green vegetation; covered in green foliage
+    verisimilitude - the appearance of being true or real; the quality of seeming believable
+    verity - truth or reality; a fact that is known to be true
+    vestige - a trace or remains of something that once existed but is now gone or almost gone
+	
+	    wanness - paleness or sickliness of appearance; lack of vitality
+    wantonness - reckless or malicious behavior; lack of constraint or restraint
+    wariness - caution or vigilance, especially in regards to potential danger or risk
+    waxen - resembling or made of wax; pale or white in color
+    wayward - inclined to stray from what is right, proper, or expected; rebellious or unruly
+    well-nigh - almost; nearly
+    wen - a large, benign cyst or tumor
+    wend - to go or travel in a certain direction; to proceed
+    wheedle - to coax or persuade through flattery or charm
+    whimsical - characterized by capriciousness or fanciful notions; unpredictable
+    whorl - a circular arrangement of similar parts; a spiral
+    wiliness - sly or cunning behavior; deviousness
+    winnow - to separate (something) from the chaff or impurities, especially by means of a current of air
+    wispy - thin and insubstantial; flimsy
+    wistful - feeling or expressing a longing or desire, especially for something that cannot be had
+    woebegone - looking or feeling dejected, unhappy, or miserable
+    wonted - customary or habitual; usual
+    wrangle - to argue or dispute noisily or angrily; to bicker
+    wrought - made or formed; created
+    wry - twisted or bent to one side; having a crooked or humorous appearance
+    xeric - characterized by little or no moisture; dry
+    xylem - the vascular tissue in plants that conducts water and dissolved nutrients from the roots to the rest of the plant
+    yare - quick or agile; ready for action
+    yearn - to have a strong, emotional desire or longing for something
+    yokel - a rustic or unsophisticated person; a country bumpkin
+    yonder - in or at a place or position farther away, especially in an indefinite or distant way
+    yowl - to make a loud, prolonged, and mournful cry, especially in pain or grief
+    yttrium - a silvery metallic chemical element with the atomic number 39
+    zany - absurd or comically crazy; ridiculous
+    zenith - the highest point or peak; the summit
+	
+	
+Give me a random list of 30 English words with more than seven letters starting with the letter j. Next to each word output the corresponding definition. Skip words where the word appears in the definition.

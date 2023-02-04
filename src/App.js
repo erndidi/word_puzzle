@@ -16,25 +16,11 @@ return (
       <Box pad="large" fill align='center' justify='center'>
         <Heading level="1">Word Puzzle</Heading>
         <Game></Game>
-        
+       
+       
           
       </Box>
-      <Button
-             label="New Game!"
-             primary
-             alignSelf='center'
-             margin="large"
-         
-
-            />
-          <Button
-             label="Give me a hint!"
-             primary
-             alignSelf='center'
-             margin="large"
-         
-            
-            />
+    
 </Grommet>
 );
 

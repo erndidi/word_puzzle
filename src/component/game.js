@@ -14,10 +14,11 @@ import Attempt from './attempt';
 
     function Game(){
       let text = "nothing";
-      const letterArray = Array.from(text);
-      const testArray = [1,2,3];
-      
+      const letterArray = Array.from(text);      
+    
+          
       const [letters, setLetters]= useState(letterArray);
+      const [definitions, setDefinitions] = useState(inDefinitions);
       useEffect(()=>{},[letters]); 
     
       const workLattice = [];
@@ -60,7 +61,21 @@ import Attempt from './attempt';
                   )
                  })
               }
-      
+            <Definition definitions={definitions}/>
+
+            <Button
+             label="Give me a hint!"
+             primary
+             alignSelf='center'
+             margin="large"
+            />
+
+            <Button
+             label="New Game!"
+             primary
+             alignSelf='center'
+             margin="large"        
+            />
             
         </div>
       );
